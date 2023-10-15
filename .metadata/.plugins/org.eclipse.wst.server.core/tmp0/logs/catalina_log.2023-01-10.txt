@@ -1,0 +1,40 @@
+2023-01-10 19:38:04 HttpConnector Abriendo sockets de servidor en todas las direcciones IP disponibles
+2023-01-10 19:38:05 HttpConnector[8080] Iniciando thread de posterior
+2023-01-10 19:38:05 HttpProcessor[8080][0] Iniciando thread de posterior
+2023-01-10 19:38:05 HttpProcessor[8080][1] Iniciando thread de posterior
+2023-01-10 19:38:05 HttpProcessor[8080][2] Iniciando thread de posterior
+2023-01-10 19:38:05 HttpProcessor[8080][3] Iniciando thread de posterior
+2023-01-10 19:38:05 HttpProcessor[8080][4] Iniciando thread de posterior
+2023-01-10 19:38:05 Ajp13Connector[8009] Opening server socket on all host IP addresses
+2023-01-10 19:38:05 Ajp13Connector[8009] Starting background thread
+2023-01-10 19:38:05 Ajp13Processor[8009][0] Starting background thread
+2023-01-10 19:38:05 Ajp13Processor[8009][1] Starting background thread
+2023-01-10 19:38:05 Ajp13Processor[8009][2] Starting background thread
+2023-01-10 19:38:05 Ajp13Processor[8009][3] Starting background thread
+2023-01-10 19:38:05 Ajp13Processor[8009][4] Starting background thread
+2023-01-10 20:33:22 HttpConnector Abriendo sockets de servidor en todas las direcciones IP disponibles
+2023-01-10 20:33:22 HttpConnector[8080] Iniciando thread de posterior
+2023-01-10 20:33:22 HttpProcessor[8080][0] Iniciando thread de posterior
+2023-01-10 20:33:22 HttpProcessor[8080][1] Iniciando thread de posterior
+2023-01-10 20:33:22 HttpProcessor[8080][2] Iniciando thread de posterior
+2023-01-10 20:33:22 HttpProcessor[8080][3] Iniciando thread de posterior
+2023-01-10 20:33:22 HttpProcessor[8080][4] Iniciando thread de posterior
+2023-01-10 20:33:22 Ajp13Connector[8009] Opening server socket on all host IP addresses
+2023-01-10 20:33:22 Ajp13Connector[8009] Starting background thread
+2023-01-10 20:33:22 Ajp13Processor[8009][0] Starting background thread
+2023-01-10 20:33:22 Ajp13Processor[8009][1] Starting background thread
+2023-01-10 20:33:22 Ajp13Processor[8009][2] Starting background thread
+2023-01-10 20:33:22 Ajp13Processor[8009][3] Starting background thread
+2023-01-10 20:33:22 Ajp13Processor[8009][4] Starting background thread
+2023-01-10 21:00:41 HttpProcessor[8080][4] Parando  thread posterior
+2023-01-10 21:00:41 HttpProcessor[8080][3] Parando  thread posterior
+2023-01-10 21:00:41 HttpProcessor[8080][2] Parando  thread posterior
+2023-01-10 21:00:41 HttpProcessor[8080][1] Parando  thread posterior
+2023-01-10 21:00:41 HttpProcessor[8080][0] Parando  thread posterior
+2023-01-10 21:00:41 HttpConnector[8080] Parando  thread posterior
+2023-01-10 21:00:41 Ajp13Processor[8009][4] Stopping background thread
+2023-01-10 21:00:41 Ajp13Processor[8009][3] Stopping background thread
+2023-01-10 21:00:41 Ajp13Processor[8009][2] Stopping background thread
+2023-01-10 21:00:41 Ajp13Processor[8009][1] Stopping background thread
+2023-01-10 21:00:41 Ajp13Processor[8009][0] Stopping background thread
+2023-01-10 21:00:41 Ajp13Connector[8009] Stopping background thread
